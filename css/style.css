@@ -380,7 +380,7 @@ a:focus {
     font-size: 20px;
     font-weight: 700;
     line-height: 35px;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
     margin-bottom: 20px;
 }
 
@@ -1723,7 +1723,7 @@ a:focus {
     font-size: 16px;
     font-weight: 500;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
     margin: 0;
 }
 
